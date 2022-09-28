@@ -25,4 +25,6 @@ int main(){
 	if(tolower(sexo) != 'm' && tolower(sexo) != 'f'){
 		printf("Sexo não reconhecido. \n");
 	}
+
+	printf("adção ao programa");
 }
